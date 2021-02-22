@@ -14,7 +14,9 @@ Enthusiasitc developer, love to connect and contribute to open-source.
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subbramanil&theme=tokyonight)
+![Subbu's GitHub stats](https://github-readme-stats.vercel.app/api?api?username=subbramanil&show_icons=true&theme=tokyonight)]
+
+![Top languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subbramanil&theme=tokyonight)
 
 ![Visitor Count](https://profile-counter.glitch.me/subbramanil/count.svg)
 
