@@ -8,7 +8,7 @@ Enthusiasitc developer, love to connect and contribute to open-source.
 
 | 🔭 I’m currently working on                                                                                                  | 🌱 I’m currently learning                                                                                              | 💬 Ask me about                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![Node.JS](https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge) | ![React](https://img.shields.io/badge/code-React-339933?logo=react&logoWidth=30&labelColor=black&style=for-the-badge) | ![Android](https://img.shields.io/badge/code-Android-339933?logo=android&logoWidth=30&labelColor=black&style=for-the-badge) |
+| ![Node.JS](https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge) | ![Android Compose](https://img.shields.io/badge/code-Android-339933?logo=android&logoWidth=30&labelColor=black&style=for-the-badge) | ![Android](https://img.shields.io/badge/code-Android-339933?logo=android&logoWidth=30&labelColor=black&style=for-the-badge) |
 
 <!-- - 📫 How to reach me: -->
 
