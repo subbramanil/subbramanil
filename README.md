@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Subbu
 
-Enthusiasitc developer, love to connect and contribute to open-source.
+Enthusiastic developer, love to connect and contribute to open-source.
 
 ⚡ Fun Experience: Creating a [custom Android Phone running Android Open Source Platform](https://estech.bitbucket.io)
 
@@ -14,7 +14,7 @@ Enthusiasitc developer, love to connect and contribute to open-source.
 
 ---
 
-## On Public Repos in 2022
+## On Public Repos in 2023
 
 ![Subbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subbramanil&show_icons=true&theme=tokyonight)
 
