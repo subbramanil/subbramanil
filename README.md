@@ -14,7 +14,7 @@ Enthusiastic developer, love to connect and contribute to open-source.
 
 ---
 
-## On Public Repos in 2023
+## On Public Repos
 
 ![Subbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subbramanil&show_icons=true&theme=tokyonight)
 
